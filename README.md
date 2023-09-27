@@ -4,6 +4,8 @@ Learn AI through Code
 ### Setup
 > Look at python_environment.doc in setup/ folder for details on setting up the work environment
 
+### Background
+> Contains intro to Python, Numpy, Pandas, Matplotlib etc
 ### NLP
 > NLP folder contains experiments on language models
 
